@@ -14,14 +14,9 @@ This project demonstrates core Redux Toolkit concepts — slices, reducers, and 
 - ⚙️ Fast dev/build tooling with **Vite**
 
 ## Tech Stack
-
-| Category         | Tech                                  |
-|------------------|----------------------------------------|
-| Framework        | [React 19](https://react.dev/)         |
 | State Management | [Redux Toolkit](https://redux-toolkit.js.org/) + [React Redux](https://react-redux.js.org/) |
 | Styling          | [Tailwind CSS v4](https://tailwindcss.com/) |
-| Build Tool       | [Vite](https://vite.dev/)              |
-| Linting          | [Oxlint](https://oxc.rs/)              |
+
 
 ## Project Structure
 
