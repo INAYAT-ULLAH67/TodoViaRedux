@@ -13,9 +13,8 @@ This project demonstrates core Redux Toolkit concepts — slices, reducers, and 
 - 🎨 Responsive UI styled with **Tailwind CSS v4**
 - ⚙️ Fast dev/build tooling with **Vite**
 
-## Tech Stack
+## Main Objective of Learning
 | State Management | [Redux Toolkit](https://redux-toolkit.js.org/) + [React Redux](https://react-redux.js.org/) |
-| Styling          | [Tailwind CSS v4](https://tailwindcss.com/) |
 
 
 ## Project Structure
@@ -85,13 +84,3 @@ Components read from the store with `useSelector` and dispatch actions with `use
 
 > **Note:** Todos currently live only in memory (Redux state) and reset on page refresh. Adding `localStorage` persistence would be a natural next step.
 
-## Roadmap Ideas
-
-- [ ] Persist todos to `localStorage`
-- [ ] Mark todos as complete/incomplete
-- [ ] Filter todos (all / active / completed)
-- [ ] Add a confirmation step before deleting
-
-## License
-
-No license has been specified yet for this project.
